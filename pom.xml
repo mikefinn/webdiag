@@ -32,7 +32,7 @@
 
 	</dependencies>
 	<build>
-		<finalName>infoweb</finalName>
+		<finalName>webdiag</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
